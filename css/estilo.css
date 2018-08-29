@@ -53,3 +53,8 @@ body {
     color: greenyellow;
     font-weight: bold;
 }
+
+#instrucao {
+    text-align: center; 
+    margin: 0;
+}
